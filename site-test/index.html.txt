@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+    <title>Ma page de test</title>
+  </head>
+  <body>
+<h1> Pildiliro </h1>
+    <img src="image/pinlynstor.jpeg" alt="Un pinlynstor, un mélange entre pingouin lynx et castor">
+<p> Ceci est un test</p>
+<ul>
+<li>ceci</li>
+<li> une </li>
+<li> list </li>
+</ul>
+<Button>Changer d'utilisateur</button>
+<script src="scripts/main.js"></script>
+  </body>
+</html> 
